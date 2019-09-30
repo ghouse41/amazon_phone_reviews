@@ -1,0 +1,4 @@
+.vscode
+scrapy_venv
+*.txt
+__pycache__
